@@ -1,9 +1,16 @@
 {
     "name": "ssmagin/bauhaus",
+    "version": "dev-master",
     "description": "The missing Laravel 4 Admin Generator with ability to cast identifier",
     "keywords": ["admin generator", "cms", "admin", "krafthaus", "laravel", "backend", "form", "forms"],
     "type": "laravel-package",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ssmagin/bauhaus"
+        }
+    ],
     "authors": [
         {
             "name": "KraftHaus",
@@ -32,5 +39,4 @@
 		"krafthaus/bauhaususer": "Add user capabilities to bauhaus",
 		"krafthaus/bauhausblock": "Simple block handling for laravel"
 	},
-    "minimum-stability": "stable"
 }
