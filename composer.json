@@ -1,6 +1,6 @@
 {
-    "name": "krafthaus/bauhaus",
-    "description": "The missing Laravel 4 Admin Generator",
+    "name": "ssmagin/bauhaus",
+    "description": "The missing Laravel 4 Admin Generator with ability to cast identifier",
     "keywords": ["admin generator", "cms", "admin", "krafthaus", "laravel", "backend", "form", "forms"],
     "type": "laravel-package",
     "license": "MIT",
